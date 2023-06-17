@@ -6,4 +6,4 @@
     * and api call add view as table
 
 ![preview img](/ca1.jpg)
-![preview img](/cap1.jpg)
+![preview img](/cap2.jpg)
